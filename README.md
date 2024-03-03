@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Software+Engineer+Graduate,;Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs,;Anime+Addict..<3"></a>
 </p>
 
-# <picture><img src = "images/about_me.gif" width = 60px></picture> About Me
+ # About Me <img align="left" src = "images/about_me.gif" width = 60px>
 
 💡 &nbsp;I'm a `Fresh software engineer Graduate` from [ENSA](http://ensak.usms.ac.ma/ensak/) National School of Applied Science
 
